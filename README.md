@@ -10,7 +10,7 @@ each face by playing with the normal vectors, as opposed to being rendered as th
 
 To improve on performance, this code does not use the standard method of Ray Tracing
 Instead, each pixel on of the 2D viewing screen looks to see which face of the obj contains that pixel and is closest to the camera (the screen)
-Then, the pixel is rendered using that face's information from the obj file and the locations of the lightsources.
+Then, the pixel is rendered using that face's information from the obj file and the locations of the light sources.
 
 Compile:
 
