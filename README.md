@@ -14,9 +14,10 @@ Then, the pixel is rendered using that face's information from the obj file and 
 
 Since only one object is rendered with this program, traditional ray tracing is unnecessary
 
-## Future considerations:
+### Future considerations:
   allowing users to alter the light sources: color, position, intensity
 
+### Use
 Compile:
   make
 
