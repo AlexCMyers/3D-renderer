@@ -22,7 +22,9 @@ Compile:
   make
 
 Run:
-  ./assn3 <file>.obj
+  ./assn3 file.obj
 
 Example obj included: 
 sphere.obj
+
+Rendered image also included
